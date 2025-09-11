@@ -21,7 +21,7 @@
 ---
 
 ## 📊 GitHub статистика  
-![Mirezon GitHub stats](https://github-readme-stats.vercel.app/api?username=mirezon&show_icons=true&theme=tokyonight)  
+![LinkSyne GitHub stats](https://github-readme-stats.vercel.app/api?username=mirezon&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirezon&layout=compact&theme=tokyonight)  
 
 ---
