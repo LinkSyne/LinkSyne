@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 LinkSyne  
 
-<!--
-**LinkSyne/LinkSyne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Reverse Engineer / System Programmer**  
+Работаю с низкоуровневым кодом и системными утилитами.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Стек технологий  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)  
+![WinAPI](https://img.shields.io/badge/WinAPI-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)    
+
+---
+
+## 🚀 Чем занимаюсь  
+- Реверс-инжиниринг приложений и игровых клиентов  
+- Системное программирование и разработка инструментов  
+- Изучение архитектуры и реализация собственных решений  
+
+---
+
+## 📊 GitHub статистика  
+![Mirezon GitHub stats](https://github-readme-stats.vercel.app/api?username=mirezon&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirezon&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌍 Контакты  
+📩 Telegram: [t.me/LinkSyne](https://t.me/LinkSyne)  
+💻 GitHub: ЗДЕСЬ!
