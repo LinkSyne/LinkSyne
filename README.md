@@ -15,5 +15,5 @@
 <h3 align="center">What I like more:</h3>
 
 <p align="center">
-  <b>IDA</b> &nbsp;•&nbsp; <b>x64dbg</b> &nbsp;•&nbsp; <b>Ghidra</b>
+  <b>IDA</b><b>x64dbg</b><b>Ghidra</b>
 </p>
