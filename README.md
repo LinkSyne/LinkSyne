@@ -1,4 +1,3 @@
-<h1 align="center">LinkSyne</h1>
 
 <p align="center">
   <i>Doing what I enjoy moving forward, I guess.</i>
